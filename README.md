@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starex-E
-- 👀 I’m interested in working with data,getting insights,building data driven digital services and products.
-- 🌱 I’m currently learning python and SQL and data visualiztion.
+- 👀 I’m interested in data.
+- 🌱 I have python programming,SQL and data visualiztion skills.
 - 💞️ I’m looking to collaborate on projects with people who share similiar interests.
 - 📫 Starexedoho@gmail.com
 
